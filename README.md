@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [GitHub]()
+- Live Site URL: [GitHub](https://anhvu1012.github.io/Testimonials-grid-section/)
 
 ## My process
 
